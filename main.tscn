@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://do3peogyxttj4"]
+
+[ext_resource type="Script" uid="uid://cn4nc0fuwvj3l" path="res://scripts/main.gd" id="1_main"]
+
+[node name="CombatSystemsLab" type="Node2D" unique_id=451541258]
+script = ExtResource("1_main")
